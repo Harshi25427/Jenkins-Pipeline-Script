@@ -1,0 +1,11 @@
+# Jenkins Pipeline Script
+
+## Project
+Automated Web Application Deployment Using Jenkins on AWS EC2.
+
+## Tools
+- AWS EC2
+- Ubuntu Linux
+- Git and GitHub
+- Jenkins
+- Apache2
